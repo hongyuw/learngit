@@ -1,2 +1,3 @@
 aaa
 remote add before dev
+git add dev
