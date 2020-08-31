@@ -1,3 +1,8 @@
 ccc
+<<<<<<< HEAD
 git add dev
 aaa
+=======
+aaa
+remote add after dev
+>>>>>>> e49b04ec5c42095668252521b0a1db68cc2507f8
