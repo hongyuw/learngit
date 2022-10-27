@@ -1,3 +1,3 @@
 aaa
 remote add before dev
-remote add after dev
+remote add after dev aaa
